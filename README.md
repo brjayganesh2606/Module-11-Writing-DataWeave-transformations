@@ -8,13 +8,31 @@ Module-11-Writing-DataWeave-transformations
 
 ![image](https://user-images.githubusercontent.com/70746268/121519665-9bac1b80-ca0f-11eb-9cab-9db9653be2b7.png)
 
-2)
+2)Walkthrough11-2:Transform basic JSON, Java, and XML data structures
 
 ![image](https://user-images.githubusercontent.com/70746268/121536745-f5691180-ca20-11eb-82c9-311932a873ee.png)
 
 ![image](https://user-images.githubusercontent.com/70746268/121536961-234e5600-ca21-11eb-99ac-d6911e503f84.png)
 
+3)Walkthrough11-3:Transform complex data structureswith arrays
 
+![image](https://user-images.githubusercontent.com/70746268/121778499-b7045b80-cbb4-11eb-86ab-b48e7cf7ee8f.png)
+
+![image](https://user-images.githubusercontent.com/70746268/121778518-cd121c00-cbb4-11eb-8c65-7e4c288cdbe7.png)
+
+![image](https://user-images.githubusercontent.com/70746268/121778545-f92d9d00-cbb4-11eb-822a-8c4f5e746ef9.png)
+
+![image](https://user-images.githubusercontent.com/70746268/121778553-05b1f580-cbb5-11eb-96df-c13813800571.png)
+
+![image](https://user-images.githubusercontent.com/70746268/121778458-9cca7d80-cbb4-11eb-8330-5d911d35fff4.png)
+
+![image](https://user-images.githubusercontent.com/70746268/121778431-7c9abe80-cbb4-11eb-97fc-d71416a8adbc.png)
+
+![image](https://user-images.githubusercontent.com/70746268/121778391-52e19780-cbb4-11eb-830f-503a3d99b094.png)
+
+![image](https://user-images.githubusercontent.com/70746268/121778403-5e34c300-cbb4-11eb-8c9a-8fd0dca24baf.png)
+
+![image](https://user-images.githubusercontent.com/70746268/121778359-304f7e80-cbb4-11eb-8fd3-c0d99533ac91.png)
 
 4)Walkthrough11-4:Transform to and from XMLwith repeated elements
 
